@@ -1,0 +1,17 @@
+C:\WorkTFS\CoreTeros\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\WorkTFS\CoreTeros\Repository\bin\Debug\net5.0\Repository.dll
+C:\WorkTFS\CoreTeros\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\WorkTFS\CoreTeros\Repository\bin\Debug\net5.0\Repository.pdb
+C:\WorkTFS\CoreTeros\Repository\bin\Debug\net5.0\Domain.dll
+C:\WorkTFS\CoreTeros\Repository\bin\Debug\net5.0\Infrastructure.dll
+C:\WorkTFS\CoreTeros\Repository\bin\Debug\net5.0\Domain.pdb
+C:\WorkTFS\CoreTeros\Repository\bin\Debug\net5.0\Infrastructure.pdb
+C:\WorkTFS\CoreTeros\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\WorkTFS\CoreTeros\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkTFS\CoreTeros\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\WorkTFS\CoreTeros\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\WorkTFS\CoreTeros\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\WorkTFS\CoreTeros\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\WorkTFS\CoreTeros\Repository\obj\Debug\net5.0\Repository.dll
+C:\WorkTFS\CoreTeros\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\WorkTFS\CoreTeros\Repository\obj\Debug\net5.0\Repository.pdb

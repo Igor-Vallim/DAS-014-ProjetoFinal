@@ -613,23 +613,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\igor.vallim\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Igor Vallim\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkTFS\\CoreTeros\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Projetos\\CoreTeros\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\WorkTFS\\CoreTeros\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\igor.vallim\\.nuget\\packages\\",
-      "outputPath": "C:\\WorkTFS\\CoreTeros\\Infrastructure\\obj\\",
+      "projectPath": "C:\\Projetos\\CoreTeros\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Igor Vallim\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\CoreTeros\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\igor.vallim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Igor Vallim\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -637,15 +633,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/api/v2": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\WorkTFS\\CoreTeros\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\WorkTFS\\CoreTeros\\Domain\\Domain.csproj"
+            "C:\\Projetos\\CoreTeros\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Projetos\\CoreTeros\\Domain\\Domain.csproj"
             }
           }
         }
@@ -680,7 +675,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

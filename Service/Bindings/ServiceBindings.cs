@@ -1,4 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using Service.Interfaces;
+using Service.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +13,7 @@ namespace Service.Bindings
     {
         public static void Configure(IServiceCollection services)
         {
+            services.AddTransient<ISentimentService, SentimentService>();
         }
     }
 }

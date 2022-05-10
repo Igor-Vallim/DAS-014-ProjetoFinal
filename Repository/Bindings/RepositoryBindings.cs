@@ -1,4 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using Repository.Interfaces;
+using Repository.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +13,8 @@ namespace Repository.Bindings
     {
         public static void Configure(IServiceCollection services)
         {
+            services.AddTransient<IMovieRepository, MovieRepository>();
+            services.AddTransient<ISentimentRepository, SentimentRepository>();
         }
     }
 }

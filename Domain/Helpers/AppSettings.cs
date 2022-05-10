@@ -8,6 +8,6 @@ namespace Domain.Helpers
 {
     public class AppSettings
     {
-        public string ConnectionTeros { get; set; }
+        public string ConnectionDatabase { get; set; }
     }
 }

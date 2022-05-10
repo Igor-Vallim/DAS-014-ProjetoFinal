@@ -1,0 +1,45 @@
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\appsettings.json
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\DAS-014 API.exe
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\DAS-014 API.deps.json
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\DAS-014 API.runtimeconfig.json
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\DAS-014 API.runtimeconfig.dev.json
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\DAS-014 API.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\ref\DAS-014 API.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\DAS-014 API.pdb
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\FluentValidation.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Npgsql.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Domain.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Infrastructure.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Repository.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Service.dll
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Infrastructure.pdb
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Repository.pdb
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Service.pdb
+C:\Projetos\CoreTeros\CoreTeros\bin\Debug\net5.0\Domain.pdb
+C:\Projetos\CoreTeros\CoreTeros\obj\Debug\net5.0\DAS-014 API.csproj.AssemblyReference.cache
+C:\Projetos\CoreTeros\CoreTeros\obj\Debug\net5.0\DAS-014 API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CoreTeros\CoreTeros\obj\Debug\net5.0\DAS-014 API.AssemblyInfoInputs.cache
+C:\Projetos\CoreTeros\CoreTeros\obj\Debug\net5.0\DAS-014 API.AssemblyInfo.cs
+C:\Projetos\CoreTeros\CoreTeros\obj\Debug\net5.0\DAS-014 API.csproj.CoreCompileInputs.cache
+C:\Projetos\CoreTeros\CoreTeros\obj\Debug\net5.0\DAS-014 API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\CoreTeros\CoreTeros\obj\Debug\net5.0\DAS-014 API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\CoreTeros\CoreTeros\obj\Debug\net5.0\staticwebassets\DAS-014 API.StaticWebAssets.Manifest.cache
+C:\Projetos\CoreTeros\CoreTeros\obj\Debug\net5.0\staticwebassets\DAS-014 API.StaticWebAssets.xml
+C:\Projetos\CoreTeros\CoreTeros\obj\Debug\net5.0\scopedcss\bundle\DAS-014 API.styles.css
+C:\Projetos\CoreTeros\CoreTeros\obj\Debug\net5.0\DAS-014 API.RazorTargetAssemblyInfo.cache
+C:\Projetos\CoreTeros\CoreTeros\obj\Debug\net5.0\DAS-014 API.csproj.CopyComplete
+C:\Projetos\CoreTeros\CoreTeros\obj\Debug\net5.0\DAS-014 API.dll
+C:\Projetos\CoreTeros\CoreTeros\obj\Debug\net5.0\ref\DAS-014 API.dll
+C:\Projetos\CoreTeros\CoreTeros\obj\Debug\net5.0\DAS-014 API.pdb
+C:\Projetos\CoreTeros\CoreTeros\obj\Debug\net5.0\DAS-014 API.genruntimeconfig.cache

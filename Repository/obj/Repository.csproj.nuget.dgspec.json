@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WorkTFS\\CoreTeros\\Repository\\Repository.csproj": {}
+    "C:\\Projetos\\CoreTeros\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\WorkTFS\\CoreTeros\\Domain\\Domain.csproj": {
+    "C:\\Projetos\\CoreTeros\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkTFS\\CoreTeros\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\CoreTeros\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\WorkTFS\\CoreTeros\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\igor.vallim\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkTFS\\CoreTeros\\Domain\\obj\\",
+        "projectPath": "C:\\Projetos\\CoreTeros\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Igor Vallim\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\CoreTeros\\Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\igor.vallim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Igor Vallim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/api/v2": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,24 +64,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\WorkTFS\\CoreTeros\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Projetos\\CoreTeros\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkTFS\\CoreTeros\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projetos\\CoreTeros\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\WorkTFS\\CoreTeros\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\igor.vallim\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkTFS\\CoreTeros\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Projetos\\CoreTeros\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Igor Vallim\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\CoreTeros\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\igor.vallim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Igor Vallim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,15 +86,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/api/v2": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\WorkTFS\\CoreTeros\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\WorkTFS\\CoreTeros\\Domain\\Domain.csproj"
+              "C:\\Projetos\\CoreTeros\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projetos\\CoreTeros\\Domain\\Domain.csproj"
               }
             }
           }
@@ -136,24 +128,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\WorkTFS\\CoreTeros\\Repository\\Repository.csproj": {
+    "C:\\Projetos\\CoreTeros\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkTFS\\CoreTeros\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Projetos\\CoreTeros\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\WorkTFS\\CoreTeros\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\igor.vallim\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkTFS\\CoreTeros\\Repository\\obj\\",
+        "projectPath": "C:\\Projetos\\CoreTeros\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\Igor Vallim\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\CoreTeros\\Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\igor.vallim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Igor Vallim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -161,18 +150,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/api/v2": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\WorkTFS\\CoreTeros\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\WorkTFS\\CoreTeros\\Domain\\Domain.csproj"
+              "C:\\Projetos\\CoreTeros\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projetos\\CoreTeros\\Domain\\Domain.csproj"
               },
-              "C:\\WorkTFS\\CoreTeros\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\WorkTFS\\CoreTeros\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Projetos\\CoreTeros\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Projetos\\CoreTeros\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -207,7 +195,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

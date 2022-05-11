@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sFzLjSMSqiuyzYgjocoIrkbTNxuJeX36IwYFStlCj+LaJ7vP9bKcr5aVPabpqkoI8tYRlJ+k6RucdaW6YJVVcg==",
+  "dgSpecHash": "AApMDGvs918jhXvf1IWj+GlLTCWfFNtboEEEUlSQ8m5QpJss+B4WiBOuj/HG2YXaXGnzCvze/jRbI9FfMBu+vA==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\CoreTeros\\CoreTeros\\Application.csproj",
+  "projectFilePath": "C:\\Projetos\\CoreTeros\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Igor Vallim\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\Igor Vallim\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.12\\microsoft.entityframeworkcore.5.0.12.nupkg.sha512",
